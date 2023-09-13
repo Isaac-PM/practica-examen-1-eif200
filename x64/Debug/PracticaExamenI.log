@@ -1,0 +1,5 @@
+﻿  Pokemon.cpp
+C:\Users\Isaac\Documents\VisualStudioProjects\PracticaExamenI\Pokemon.cpp(63,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isaac\Documents\VisualStudioProjects\PracticaExamenI\Pokemon.cpp(104,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isaac\Documents\VisualStudioProjects\PracticaExamenI\Pokemon.cpp(112,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  PracticaExamenI.vcxproj -> C:\Users\Isaac\Documents\VisualStudioProjects\PracticaExamenI\x64\Debug\PracticaExamenI.exe
